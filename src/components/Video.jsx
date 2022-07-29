@@ -15,7 +15,7 @@ const Video = () => {
         <p>World`s first civilian space travel.</p>
 
         <Buttons>
-          <Link to="/traning" className="btn">
+          <Link to="/training" className="btn">
             Training
           </Link>
           <Link to="/contact" className="btn btn-light">
